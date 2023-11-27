@@ -1,0 +1,7 @@
+C:\Users\ctOS\Desktop\OAT_1\OAT_1\obj\Debug\OAT_1.csproj.AssemblyReference.cache
+C:\Users\ctOS\Desktop\OAT_1\OAT_1\obj\Debug\OAT_1.csproj.CoreCompileInputs.cache
+C:\Users\ctOS\Desktop\OAT_1\OAT_1\bin\Debug\OAT_1.exe.config
+C:\Users\ctOS\Desktop\OAT_1\OAT_1\bin\Debug\OAT_1.exe
+C:\Users\ctOS\Desktop\OAT_1\OAT_1\bin\Debug\OAT_1.pdb
+C:\Users\ctOS\Desktop\OAT_1\OAT_1\obj\Debug\OAT_1.exe
+C:\Users\ctOS\Desktop\OAT_1\OAT_1\obj\Debug\OAT_1.pdb
