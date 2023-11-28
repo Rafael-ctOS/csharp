@@ -5,3 +5,10 @@ C:\Users\ctOS\Desktop\OAT_3\OAT_3\bin\Debug\OAT_3.exe
 C:\Users\ctOS\Desktop\OAT_3\OAT_3\bin\Debug\OAT_3.pdb
 C:\Users\ctOS\Desktop\OAT_3\OAT_3\obj\Debug\OAT_3.exe
 C:\Users\ctOS\Desktop\OAT_3\OAT_3\obj\Debug\OAT_3.pdb
+C:\Users\ctOS\Documents\GitHub\csharp\OAT_3\OAT_3\bin\Debug\OAT_3.exe.config
+C:\Users\ctOS\Documents\GitHub\csharp\OAT_3\OAT_3\bin\Debug\OAT_3.exe
+C:\Users\ctOS\Documents\GitHub\csharp\OAT_3\OAT_3\bin\Debug\OAT_3.pdb
+C:\Users\ctOS\Documents\GitHub\csharp\OAT_3\OAT_3\obj\Debug\OAT_3.csproj.AssemblyReference.cache
+C:\Users\ctOS\Documents\GitHub\csharp\OAT_3\OAT_3\obj\Debug\OAT_3.csproj.CoreCompileInputs.cache
+C:\Users\ctOS\Documents\GitHub\csharp\OAT_3\OAT_3\obj\Debug\OAT_3.exe
+C:\Users\ctOS\Documents\GitHub\csharp\OAT_3\OAT_3\obj\Debug\OAT_3.pdb

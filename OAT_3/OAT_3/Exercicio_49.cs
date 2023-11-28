@@ -26,11 +26,9 @@ namespace OAT_3
             int[] V1 = new int[tamanho];
             int[] V2 = new int[tamanho];
 
-            // Preenche os vetores
             PreencherVetor("V1", V1);
             PreencherVetor("V2", V2);
 
-            // Determina e imprime a quantidade de valores idênticos nas mesmas posições
             int quantidadeIdenticos = ContarValoresIdenticos(V1, V2);
             Console.WriteLine($"Quantidade de valores idênticos nas mesmas posições: {quantidadeIdenticos}");
             Console.WriteLine("");
