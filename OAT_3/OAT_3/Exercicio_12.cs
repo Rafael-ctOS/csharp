@@ -26,14 +26,12 @@ namespace OAT_3
 
         static int CalcularModulo(int x)
         {
-            // Verifica se o número é menor que zero e calcula o módulo apropriado
             if (x < 0)
             {
                 return x * (-1);
             }
             else
             {
-                // Se o número for maior ou igual a zero, o módulo é o próprio número
                 return x;
             }
 

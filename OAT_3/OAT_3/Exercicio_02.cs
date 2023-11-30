@@ -15,12 +15,12 @@ namespace OAT_3
             Console.WriteLine("");
 
             Console.Write("Informe a cotação do dólar: ");
-            double cotacaoDolar = Convert.ToDouble(Console.ReadLine());
+            double CotacaoDolar = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Informe o valor em dólares: ");
             double valorEmDolares = Convert.ToDouble(Console.ReadLine());
 
-            double valorEmReais = valorEmDolares * cotacaoDolar;
+            double valorEmReais = valorEmDolares * CotacaoDolar;
 
             Console.WriteLine($"O valor em reais é: {valorEmReais:C}");
 

@@ -14,7 +14,6 @@ namespace OAT_3
             Console.WriteLine("EXERCICIO 05");
             Console.WriteLine("");
 
-            // aolicitar ao usuário o tempo gasto e a velocidade média
             Console.Write("Informe o tempo gasto na viagem (em horas): ");
             double tempo = Convert.ToDouble(Console.ReadLine());
 

@@ -14,7 +14,6 @@ namespace OAT_3
             Console.WriteLine("EXERCICIO 04");
             Console.WriteLine("");
 
-            // ler quatro valores inteiros
             Console.WriteLine("Digite quatro valores inteiros:");
             Console.Write("Valor A: ");
             int a = int.Parse(Console.ReadLine());
@@ -30,7 +29,6 @@ namespace OAT_3
 
             Console.WriteLine("");
 
-            // operações de adição
             Console.WriteLine("Resultados das adições:");
             Console.WriteLine($"A + B = {a + b}");
             Console.WriteLine($"A + C = {a + c}");
@@ -41,7 +39,6 @@ namespace OAT_3
 
             Console.WriteLine("");
 
-            // operações de multiplicação
             Console.WriteLine("Resultados das multiplicações:");
             Console.WriteLine($"A * B = {a * b}");
             Console.WriteLine($"A * C = {a * c}");
